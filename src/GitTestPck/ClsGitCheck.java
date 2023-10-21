@@ -9,6 +9,10 @@ public class ClsGitCheck {
 		for (int i=0;i<=3;i++) {
 			System.out.println("Hello world" + i);
 		}
+		int a=3;
+		int b=6;
+		int sum = a+b;
+		System.out.println(sum);
 	}
 	
 
